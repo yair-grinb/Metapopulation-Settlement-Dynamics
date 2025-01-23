@@ -41,7 +41,7 @@ The script requires the following files located in the `data` folder:
     - `Percip_*`: Rainfall levels across different periods of the year.
     - `NEAR_Sea` and `NEAR_Chlak`: Distances to the sea and soft rock formations.
 
-- **`1596`, `1881`, `1931`**: Historical village data from the Ottoman, PEF, and Mandate periods, respectively, with fields for village name ('Village'), location ('POINT_X', 'POINT_Y'), population size ('Population'), persistence status ('Continued'), and environmental attributes (as detailed above).
+- **`1596`, `1881`, `1931`**: Historical village data from the Ottoman, PEF, and Mandate periods, respectively, with fields for village name (`Village`), location (`POINT_X`, `POINT_Y`), population size (`Population`), persistence status (`Continued`), and environmental attributes (as detailed above).
 
 ### **2.2. Niche Maps**
 Files such as `1596_map.csv` and `1881_map.csv` provide simulated ecological niche maps for each period, with fields for:
@@ -68,7 +68,7 @@ Files such as `1596_map.csv` and `1881_map.csv` provide simulated ecological nic
 ---
 
 ### **3.2. Hypothesis 2: Niche Distribution Stability**
-**Goal**: Test the stability of ecological niches across periods.
+**Goal**: Test the stability of ecological niches and settlement locations across periods.
 
 **Steps**:
 1. Use MaxEnt to generate ecological niche maps (external process).
