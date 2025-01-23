@@ -19,7 +19,7 @@ This repository contains one script file and a `data` folder with 9 supporting f
 
 ### **Note**
 - A detailed description of the dataset and methodologies is included in the supplementary file *Supporting Information Text and Tables*, available with the publication.
-- Since both the Random Forest (Hypothesis 1) and the selection of random points include random components, the results would not be 100% the same as in Wachtel et al. (2025).
+- Since the procedures for hypotheses 1 (Random Forest) and 3 (selection of random points) include random components, the results may be different in terms of absolute values than those presented in Wachtel et al. (2025). However, the results should agree with the significant findings discussed in the paper (e.g. population size being the most important feature).
 
 ---
 
